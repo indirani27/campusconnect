@@ -33,6 +33,7 @@ templates/
    about.html
 
 How to Run Locally
+
 1.Clone the repository:
 bash
    git clone https://github.com/yourusername/campusconnect.git
@@ -52,7 +53,7 @@ bash
 Demo video
 Watch the demo here:https://drive.google.com/file/d/1Lk9Nct75eFG5D0qP2QGeiS5UkiOHjfYD/view?usp=sharing
 
-## 🚀 Future Enhancements
+Future Enhancements
 
 The current CampusConnect MVP demonstrates core features like task workflows, leaderboard, and badge recognition.  
 Planned enhancements include:
