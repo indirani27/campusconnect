@@ -33,15 +33,19 @@ templates/
    about.html
 
 How to Run Locally
-1. Clone the repository:
+1.Clone the repository:
 bash
    git clone https://github.com/yourusername/campusconnect.git
+   
 2.Navigate to the project folder:
    cd campusconnect
+   
 3.Install dependencies:
    pip install flask
+   
 4.Run the app:
    python app.py
+   
 5.Open in browser:
   http://localhost:5000
 
